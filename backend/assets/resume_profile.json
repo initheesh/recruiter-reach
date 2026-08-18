@@ -1,0 +1,77 @@
+{
+  "name": "Nitheesh Shaju",
+  "summary": "Frontend Software Engineer with 3 years of experience building scalable enterprise web applications using React.js, TypeScript, Redux Toolkit and Material UI.",
+  "years_of_experience": "3",
+  "current_role": "Software Engineer",
+  "skills": [
+    "Reusable Components",
+    "Custom Hooks",
+    "Modular Architecture",
+    "Feature-Based Architecture",
+    "State Management",
+    "REST API Integration",
+    "Performance Optimization",
+    "Responsive Design",
+    "Cross-Browser Compatibility",
+    "Git",
+    "Code Reviews",
+    "Agile Scrum"
+  ],
+  "programming_languages": [
+    "JavaScript",
+    "TypeScript",
+    "Python"
+  ],
+  "frameworks": [
+    "React.js",
+    "Next.js",
+    "Redux Toolkit",
+    "React Query",
+    "React Router",
+    "Material UI",
+    "Tailwind CSS",
+    "AG Grid",
+    "Vite",
+    "Webpack",
+    "Module Federation",
+    "FastAPI"
+  ],
+  "tools": [
+    "SAP BTP",
+    "Cloud Foundry",
+    "SAP XSUAA",
+    "Destination Service",
+    "Multi-Target Application (MTA)",
+    "Azure DevOps",
+    "CI/CD",
+    "Docker",
+    "Azure Container Registry",
+    "Git",
+    "FastMCP"
+  ],
+  "databases": [],
+  "experience": [
+    {
+      "company": "Incture Technologies",
+      "role": "Software Engineer",
+      "duration": "Sep 2023 – Present",
+      "highlights": [
+        "Developed and maintained enterprise web applications using React.js, TypeScript, Material UI and Vite",
+        "Designed reusable components, custom hooks and modular architecture",
+        "Implemented Redux Toolkit and React Query for state management and REST API integration",
+        "Optimized performance with lazy loading, memoization and code splitting",
+        "Integrated SAP BTP services (XSUAA, Destination Service) and deployed via MTA",
+        "Used Git, Azure DevOps CI/CD pipelines and Agile methodologies"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "NSS College of Engineering",
+      "degree": "Bachelor of Technology",
+      "field": "Computer Science and Engineering",
+      "duration": "2019 – 2023"
+    }
+  ],
+  "certifications": []
+}
